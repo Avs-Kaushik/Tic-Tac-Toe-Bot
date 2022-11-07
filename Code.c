@@ -2,7 +2,7 @@
 /*
     Project Name:TIC-TAC-TOE Bot
     Dev-AVS KAUSHIK
-    <---Dont copy without permession--->
+    <---Dont copy without permission--->
     Copyright  ©2021
 */
 #include <stdio.h>
